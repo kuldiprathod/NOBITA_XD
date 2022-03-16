@@ -724,11 +724,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "READY BOSS"
+        text = "𝑵𝑶𝑩𝑰𝑻𝑨_𝑿𝑫 💫👹"
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"🤖 𝗥𝗘𝗔𝗗𝗬 𝗕𝗢𝗦𝗦\n`{ms}` 𝗺𝘀\n {PM} ")
+        await event.edit(f"💫👅𝑹𝑬𝑨𝑫𝒀 𝑻𝑶 𝑲𝑼𝑪𝑲 𝑩𝑶𝑺𝑺 \n`{ms}` 𝗺𝘀\n {PM} ")
 
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
@@ -878,11 +878,11 @@ async def get_users(event):
     else:
         hell = await eor(event, "`processing...`")
     he_ll = event.pattern_match.group(1)
-    if he_ll == "@FIGHTERS_KA_ADDA":
+    if he_ll == "@mahakalspamcontrolroom":
         return await hell.edit("Restricted to invite users from there.")
-    elif he_ll == "@FIGHTERS_KA_ADDA":
+    elif he_ll == "@mahakalspamcontrolroom":
         return await hell.edit("Restricted to invite users from there.")
-    elif he_ll == "@FIGHTERS_KA_ADDA":
+    elif he_ll == "@mahakalspamcontrolroom":
         return await hell.edit("Restricted to invite users from there.")
     kraken = await get_chatinfo(event)
     chat = await event.get_chat()
