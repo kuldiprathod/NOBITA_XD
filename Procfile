@@ -1,1 +1,1 @@
-worker: python3 SpamBots.py
+worker: python3 Nobita.py
