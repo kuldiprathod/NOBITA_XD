@@ -1,11 +1,11 @@
 <h1 align="center">
-  <b>D̸A̸N̸G̸E̸R̸ F̸I̸G̸H̸T̸E̸R̸S̸ </b>
+  <b>𝑵𝑶𝑩𝑰𝑻𝑨_𝑿𝑫 </b>
 </h1>
 
 ------
 <h3>CREATER - </h3>
 
-[『〔𝗠𝗔𝗛𝗔𝗕𝗔𝗟𝗜〕』
+[『〔𝑵𝑶𝑩𝑰𝑻𝑨_𝑿𝑫〕』
 
 
 
@@ -17,41 +17,39 @@
 
   ------
   <p align="center" length="100" breadth="100" border="5">
-  <img src="https://telegra.ph/file/f482537406bdfd7d2265f.jpg">
+  <img src="https://telegra.ph/file/8c0c0dc2721c54857acf0.jpg">
 </p>
 ..
 
 ## Telegram 🏪
-- [![𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DANGER_FIGHTERS)
+- [![𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/mahakalspamcontrolroom)
 
 
 ## Deploy To Heroku
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabalispam)
-
-## String Session FOR  BOT AND IDS 
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/NOBITA_XD)
 
 
-   - 𝐁𝐎𝐓 𝐒𝐓𝐑𝐈𝐍𝐆 [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/mahabalispam#main.py)
-
-   - 𝐈𝐃 𝐒𝐓𝐑𝐈𝐍𝐆 [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@Mahabalix/MAHABALI-ID-SPAM#main.py)
 
 
-𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗬𝗨𝗞𝗞𝗜&𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
+   
+   -
+
+𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝑵𝑶𝑩𝑰𝑻𝑨 & 𝑫𝑰𝑺𝑻𝑹𝑶𝒀𝑬𝑹
 
 𝗥𝗘𝗣𝗜𝗟 𝗖𝗥𝗘𝗗𝗜𝗧➪ 𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥
 
 𝗙𝗨𝗟𝗟 𝗠𝗢𝗗𝗘 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗔𝗚𝗔𝗜𝗡
 
-𝗠𝗢𝗗𝗘𝗗 𝗕𝗬➪ 𝗠𝗔𝗛𝗔𝗕𝗔𝗟𝗜
+𝗠𝗢𝗗𝗘𝗗 𝗕𝗬➪ 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃
 
 
 
 
-𝐁𝐄𝐀𝐒𝐓 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓😊😇
+𝐁𝐄𝐒𝐓 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐁𝐎𝐓𝐒 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌𝐌𝐈𝐍𝐆 😊😇
 
-𝐂𝐑𝐄𝐃𝐈𝐓➪ 𝐌𝐀𝐇𝐀𝐁𝐀𝐋𝐈𝐗
+𝐂𝐑𝐄𝐃𝐈𝐓➪ 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃
 
-𝐌𝐎𝐃𝐈𝐅𝐘 𝐁𝐘➪ 𝐌𝐀𝐇𝐀𝐁𝐀𝐋𝐈𝐗
+𝐌𝐎𝐃𝐈𝐅𝐘 𝐁𝐘➪ 𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃
 
 
 
